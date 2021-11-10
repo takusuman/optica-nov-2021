@@ -1,0 +1,6 @@
+# Exclude Vim trash
+.*.un~
+*~
+
+# Non-code files
+slides.pdf
